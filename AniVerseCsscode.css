@@ -1,0 +1,227 @@
+body {background-color: 
+	#000101;
+}
+
+.welcome {
+	text-align:center;
+	color: white;
+	margin-top: 20px;
+
+	}
+
+.navbar {
+	background-color: #23252b;
+	overflow: hidden;
+}
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #111111;
+  cursor: pointer;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #111111;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color:#23252b;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content h1 {
+    color: white;
+    font-size: 20px;
+    padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+ 
+ .mangadropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.mangadropdown .mangabutton {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .mangadropdown:hover .mangabutton {
+  background-color: #111111;
+  cursor: pointer;
+}
+
+.mangacontent {
+  display: none;
+  position: absolute;
+  background-color: #111111;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  cursor: pointer;
+}
+
+.mangacontent a {
+  float: none;
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  cursor: pointer;
+}
+
+.mangacontent a:hover {
+  background-color:#23252b;
+}
+
+.mangadropdown:hover .mangacontent {
+  display: block;
+}
+
+.mangacontent h1 {
+    color: white;
+    font-size: 20px;
+    padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+   
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48;
+  color: white;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.search-icon  {
+  color: white;
+  background-color:#23252b;
+  border: none;
+  cursor: pointer;
+  float: right;
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48;
+    color: white;
+  padding-top: 10px;
+  padding-left: 10px;
+} 
+.account-icon  {
+  color: white;
+  background-color:#23252b;
+  border: none;
+  cursor: pointer;
+  float: right;
+}
+
+.bleach {
+  float: left;
+  padding-top: 50px;
+  margin-left: 50px;
+
+}
+
+.bleach h1  {
+  text-align: center;
+}
+
+.bleach p {
+  text-align: center;
+}
+
+.solo-leveling {
+  float: right;
+  padding-top: 50px;
+  margin-left: 100px;
+
+}
+
+.solo-leveling h1  {
+  text-align: center;
+}
+
+.solo-leveling p {
+  text-align: center;
+}
+
+.k-on {
+  float: right;
+  padding-top: 50px;
+  margin-left: 100px;
+  margin-right:50px;
+
+}
+
+.k-on h1  {
+  text-align: center;
+}
+
+.k-on p {
+  text-align: center;
+}
+
+.Chainsaw-man {
+  float: left;
+  padding-top: 50px;
+  margin-left: 50px;
+
+}
+
+.Chainsaw-man h1 {
+  text-align: center;
+}
+
+.Chainsaw-man p {
+  text-align: center;
+}
